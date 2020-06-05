@@ -1,4 +1,4 @@
-#ifnde WinstonPower_h
+#ifndef WinstonPower_h
 #define WinstonPower_h
 
 //Standard Arduino Libraries
